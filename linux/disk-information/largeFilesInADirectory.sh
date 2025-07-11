@@ -1,5 +1,6 @@
 # The following command displays the largest files in a directory
-du -ah /var/lib/ | sort -n -r | head -n 10
+du -ah | sort -n -r | head -n 10            # Current directory
+du -ah /var/lib/ | sort -n -r | head -n 10   # Target directory
 
 # The breakdown of the command is as follows:
 # Obtain file sizes using the du command
