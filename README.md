@@ -1,8 +1,11 @@
 # Useful Scripts
-The Useful Scripts repository contains several useful scripts that don't fit in a greater repository. This includes scripts for file manipulation, cron jobs, python scripts, etc
+The Useful Scripts repository contains several useful scripts that don't fit in a greater repository.  
+This includes scripts for file manipulation, cron jobs, python scripts, etc.
 
 # Contents
 ## Bash
+
+## Date and Time
 Bash scripts that perform several functions, such as appending dates and times to file names.
 
 ## Linux
